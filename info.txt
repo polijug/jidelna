@@ -1,0 +1,110 @@
+    <meta content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport">
+
+
+@media (max-width: 1199px) {
+    #whole {
+    width: auto;
+       /* width: 992px;*/
+    }
+}
+.col-xs-7 {
+width: auto;
+    /* width: 58.33333333%; */
+}
+.col-xs-5 {
+width: auto;
+    /* width: 41.66666667%; */
+}
+
+.col-xs-2 {
+width: auto;
+    /* width: 16.66666667%; */
+}
+
+.col-xs-3 {
+width: auto;
+    /* width: 25%; */
+}
+
+.col-xs-3.popiskaJidla {
+    width: 65px;
+}
+
+.col-xs-1 {
+width: auto;
+    /* width: 8.33333333%; */
+}
+
+.col-xs-2.alergeny {
+    float: inline-end;
+}
+
+.obrazky.row {
+    display: none;
+}
+
+
+
+ul[role=tablist]>li:nth-child(5) {
+    display: none;
+}
+
+.navbar-static-top {
+    display: none;
+}
+
+.chodHlavicka {
+    display: none;
+}
+
+.col-xs-7.alergeny {
+    display: none;
+}
+
+.menuHlavicka {
+    display: none;
+}
+
+.reklamyBanner {
+    display: none;
+}
+
+.col-xs-5.alergeny {
+    display: none;
+}
+
+.fa-calendar {
+    display: none;
+}
+
+.col-xs-9 {
+    /* width: 75%; */
+    width: auto;
+}
+
+.col-xs-5 {
+    display: none;
+}
+
+.ohodnot.row {
+    display: none;
+}
+
+.jidelniListek .popiska-vpravo {
+    text-align: left;
+    width: auto;
+}
+
+.col-xs-9 {
+    width: 95%;
+}
+
+.text-center.col-xs-2 {
+    margin: 0 auto;
+    width: fit-content;
+    display: contents;
+}
+
+.col-xs-7.textJidla {
+    line-break: normal;
+}
