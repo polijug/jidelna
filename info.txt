@@ -4,26 +4,21 @@
 @media (max-width: 1199px) {
     #whole {
     width: auto;
-       /* width: 992px;*/
     }
 }
 .col-xs-7 {
 width: auto;
-    /* width: 58.33333333%; */
 }
 .col-xs-5 {
 width: auto;
-    /* width: 41.66666667%; */
 }
 
 .col-xs-2 {
 width: auto;
-    /* width: 16.66666667%; */
 }
 
 .col-xs-3 {
 width: auto;
-    /* width: 25%; */
 }
 
 .col-xs-3.popiskaJidla {
@@ -32,7 +27,6 @@ width: auto;
 
 .col-xs-1 {
 width: auto;
-    /* width: 8.33333333%; */
 }
 
 .col-xs-2.alergeny {
@@ -78,7 +72,6 @@ ul[role=tablist]>li:nth-child(5) {
 }
 
 .col-xs-9 {
-    /* width: 75%; */
     width: auto;
 }
 
